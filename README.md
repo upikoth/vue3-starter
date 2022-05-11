@@ -1,6 +1,7 @@
 # vue3-starter
 
 Copy template via [degit](https://github.com/Rich-Harris/degit)
+
 degit upikoth/vue3-starter
 
 This template should help get you started developing with Vue 3 in Vite.
